@@ -1,0 +1,240 @@
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\appsettings.Development.json
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\appsettings.json
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\StudentRegistration.exe
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\StudentRegistration.deps.json
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\StudentRegistration.runtimeconfig.json
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Azure.Core.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Azure.Identity.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Humanizer.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.CodeDom.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Memory.Data.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.AssemblyReference.cache
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfoInputs.cache
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfo.cs
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CoreCompileInputs.cache
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.MvcApplicationPartsAssemblyInfo.cs
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.MvcApplicationPartsAssemblyInfo.cache
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentRegistration.props
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentRegistration.props
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentRegistration.props
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets.pack.json
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets.build.json
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\staticwebassets.development.json
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\scopedcss\bundle\StudentRegistration.styles.css
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CopyComplete
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\refint\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\StudentRegistration.genruntimeconfig.cache
+D:\StudentRegistration\StudentRegistration\obj\Debug\net7.0\ref\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\AutoMapper.dll
+D:\StudentRegistration\StudentRegistration\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\appsettings.Development.json
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\appsettings.json
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.exe
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.deps.json
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.runtimeconfig.json
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.pdb
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\AutoMapper.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Azure.Core.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Azure.Identity.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Humanizer.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.CodeDom.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Memory.Data.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.AssemblyReference.cache
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfoInputs.cache
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfo.cs
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CoreCompileInputs.cache
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.MvcApplicationPartsAssemblyInfo.cs
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.MvcApplicationPartsAssemblyInfo.cache
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentRegistration.props
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentRegistration.props
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentRegistration.props
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets.pack.json
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets.build.json
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets.development.json
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\scopedcss\bundle\StudentRegistration.styles.css
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CopyComplete
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.dll
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\refint\StudentRegistration.dll
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.pdb
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.genruntimeconfig.cache
+D:\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\ref\StudentRegistration.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\FluentValidation.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\appsettings.Development.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\appsettings.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.exe
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.deps.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.runtimeconfig.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\AutoMapper.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Azure.Core.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Azure.Identity.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\FluentValidation.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Humanizer.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.CodeDom.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Memory.Data.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.AssemblyReference.cache
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfoInputs.cache
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfo.cs
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CoreCompileInputs.cache
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.MvcApplicationPartsAssemblyInfo.cs
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.MvcApplicationPartsAssemblyInfo.cache
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentRegistration.props
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentRegistration.props
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentRegistration.props
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets.pack.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets.build.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\staticwebassets.development.json
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\scopedcss\bundle\StudentRegistration.styles.css
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CopyComplete
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\refint\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\StudentRegistration.genruntimeconfig.cache
+D:\StudentRegistration\StudentRegistration API\StudentRegistration\obj\Debug\net7.0\ref\StudentRegistration.dll
